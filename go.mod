@@ -1,4 +1,4 @@
-module middleware
+module github.com/bc-infinitaskt/middleware
 
 go 1.20
 
